@@ -1,16 +1,24 @@
-# breathtaking-hardhat-erc721
+# breathtaking-hardhat-erc721-template
 
-![Lisa](https://media1.giphy.com/media/3orif0X0NtXPresE24/giphy.gif?cid=790b7611511e3a52eeb29a669a8654b57decdaa6cbadc7d4&rid=giphy.gif&ct=g)
+<img src="https://user-images.githubusercontent.com/45223699/167655509-14c96314-cfe3-4338-ac5d-4e32741c5275.gif" width="100%" />
+
+Hey! 👋 This will be your best resource to bootstrap a Hardhat ERC-721 Contract. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
 
 ## Usage
 
-Checkout this repo and install dependencies
+1. Clone this repo:
 
-```shell
+```bash
+git clone https://github.com/Accretence/breathtaking-hardhat-erc721-template
+```
+
+2. Install dependencies using:
+
+```bash
 npm install
 ```
 
-Create your `.env` file according to the `sample.env` provided file.
+3. Create your `.env` file according to the `sample.env` provided file.
 
 ```shell
 MAINNET_PRIVATE_KEY=
@@ -21,7 +29,7 @@ CMC_KEY=
 ETHERSCAN_KEY=
 ```
 
-## Testing
+4. Test the contract:
 
 There are exhaustive tests provided in the `Test.js` file. You can run the file using this command:
 
