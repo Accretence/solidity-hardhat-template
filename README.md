@@ -1,13 +1,14 @@
-# smooth-hardhat-boilerplate
 
-Your best resource to bootstrap a Hardhat project. Ready to test with gas monitoring. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
+Ready to test functionality, monitor gas-usage, and deploy contracts. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
+
+![Screenshot](https://user-images.githubusercontent.com/7332026/59982003-c30a4380-95c0-11e9-9d93-e3af979df227.png)
 
 ## Usage
 
 1. Clone this repo:
 
 ```bash
-git clone https://github.com/Accretence/breathtaking-hardhat-erc721-template
+git clone https://github.com/Accretence/smooth-hardhat-boilerplate
 ```
 
 2. Install dependencies using:
