@@ -1,8 +1,6 @@
-# breathtaking-hardhat-erc721-template
+# smooth-hardhat-boilerplate
 
-<img src="https://user-images.githubusercontent.com/45223699/167655509-14c96314-cfe3-4338-ac5d-4e32741c5275.gif" width="100%" />
-
-Hey! 👋 This will be your best resource to bootstrap a Hardhat ERC-721 Contract. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
+Your best resource to bootstrap a Hardhat project. Ready to test with gas monitoring. All of the direct dependencies use their latest available version and the architecture is clean and easy to extend. Have fun BUIDLing! 🤙
 
 ## Usage
 
